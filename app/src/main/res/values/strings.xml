@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Okane Konversi</string>
+    <string name="nilai">Nilai Mata Uang</string>
+    <string name="pilih">Pilih Mata Uang</string>
+    <string name="euro">Euro</string>
+    <string name="usd">US Dollar</string>
+    <string name="jpy">Japanese Yen</string>
+    <string name="sar">Saudi Riyal</string>
+    <string name="konv">Konversi</string>
+    <string name="label">Nilai Mata Uang</string>
+</resources>
